@@ -15,7 +15,7 @@ import sortIcon from "./imgs/sortIcon.svg";
 import filterIcon from "./imgs/filterIcon.svg";
 import menu from "./imgs/verticalIcon.svg";
 
-
+console.log()
 
 function App() {
   return (
